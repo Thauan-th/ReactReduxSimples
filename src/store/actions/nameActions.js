@@ -1,0 +1,1 @@
+export const type = ["NUMERO_MINIMO_ALTERADO",'NUMERO_MAXIMO_ALTERADO'] 
